@@ -1,5 +1,5 @@
 # Project Cuddlephish
-a simple After Effects script to export high quality GIFs
+Export GIFs from After Effects with amazing quality
 
 # Requirements
 FFmpeg and gifski binaries need to be in the ProjectCuddlePhish/bin directory
