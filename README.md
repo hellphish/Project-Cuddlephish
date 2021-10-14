@@ -3,6 +3,7 @@ Export GIFs from After Effects with amazing quality
 
 # Requirements
 FFmpeg and gifski binaries need to be in the ProjectCuddlePhish/bin directory
+Get them from https://ffmpeg.org/download.html and https://gif.ski/
 
 # Installation
 Unarchive the entire repo into your ScriptUI Panels folder. Pay attention to ther requirements above
